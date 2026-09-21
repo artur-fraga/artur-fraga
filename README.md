@@ -4,7 +4,6 @@
 💻 Focado em back-end com Java | Buscando meu primeiro estágio em desenvolvimento
 🌱 Aprendendo Java, SQL e Git/GitHub na prática
 
----
 
 ### 🚀 Sobre mim
 
@@ -17,11 +16,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 📌 Projetos em destaque
-
-- **[Sistema de Estoque em Java](#)** — CRUD de produtos usando POO (classe `Produto`, `ArrayList`, `toString()` formatado), em evolução para persistência em arquivo e banco de dados.
-
-> Atualize o link acima com a URL do seu repositório.
 
 ### 📫 Como me encontrar
 
