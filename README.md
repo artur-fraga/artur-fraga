@@ -8,7 +8,7 @@
 ### 🚀 Sobre mim
 
 - Estudo **Java** com foco em orientação a objetos, buscando aprofundar cada vez mais.
-- Estou construindo um **sistema de controle de estoque em Java** (classe `Produto`, `ArrayList`, `toString()` formatado), evoluindo de orientação a objetos até persistência em arquivo e banco de dados.
+- Estou construindo um **sistema de controle de estoque em Java** (classe `Produto`, `ArrayList`, métodos), evoluindo de orientação a objetos até persistência em arquivo e banco de dados.
 
 ### 🛠️ Tecnologias e ferramentas
 
